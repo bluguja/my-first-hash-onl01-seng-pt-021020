@@ -53,3 +53,5 @@ shipping_manifest["gun powder"]=4
     
 
 end
+
+adding(shipping_manifest)
