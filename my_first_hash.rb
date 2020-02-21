@@ -47,7 +47,8 @@ shipping_manifest["gun powder"]=4
 
   # return the shipping_manifest hash below
   
-    #shipping_manifest 
-  
+    
+  require 'pry'
 end
-adding(shipping_manifest)
+binding.pry
+adding
